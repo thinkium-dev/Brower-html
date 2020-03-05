@@ -1,6 +1,5 @@
-# demo
+# Brower-html
 
-> A Vue.js project
 
 ## Build Setup
 
