@@ -81,12 +81,14 @@
 
   .logo {
     display: inline-block;
-    width: 200px;
+    width: 50px;
+margin-left: 20px;
     height: 50px;
     position: relative;
     top: 10px;
-    background: url("../assets/images/logo_2.png") no-repeat;
-    background-size: 75%
+    background: url("../assets/images/logo_4.png") no-repeat;
+    background-size: 80% 80%;
+ 
   }
 
   .header_pad {
